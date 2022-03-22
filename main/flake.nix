@@ -9,7 +9,7 @@
   
   inputs.src-sbttl-main.flake = false;
   inputs.src-sbttl-main.owner = "hamidb80";
-  inputs.src-sbttl-main.ref   = "refs/heads/main";
+  inputs.src-sbttl-main.ref   = "main";
   inputs.src-sbttl-main.repo  = "sbttl";
   inputs.src-sbttl-main.type  = "github";
   
